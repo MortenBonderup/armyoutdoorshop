@@ -59,6 +59,8 @@ body {
 }
 
 .greenframe {
+    color: #ffffff;
+    background-color: #467c46;
     border: #467c46 solid 2px;
     padding: 0 2px 0 2px;
 }
@@ -197,6 +199,7 @@ body {
     }
 
     .greenframe {
+
         border: #467c46 solid 3px;
         padding: 0 5px 0 5px;
     }
